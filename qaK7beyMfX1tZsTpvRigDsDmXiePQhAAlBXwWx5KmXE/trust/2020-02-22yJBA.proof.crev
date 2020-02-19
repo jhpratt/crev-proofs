@@ -17,3 +17,22 @@ comment: |-
 pyMPB8KtLa5763ogwchn8EcGDIYEqEIdl4KfmPJOryJ3Qw8fVguWd2TpU_bJ-3IJ4TPY13hC6LXSbHc8CRexBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-02-19T01:27:06.478741376-05:00"
+from:
+  id-type: crev
+  id: qaK7beyMfX1tZsTpvRigDsDmXiePQhAAlBXwWx5KmXE
+  url: "https://github.com/jhpratt/crev-proofs"
+ids:
+  - id-type: crev
+    id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+    url: "https://github.com/Mark-Simulacrum/crev-proofs"
+trust: medium
+comment: |-
+  Well-known Rust contributor
+----- SIGN CREV PROOF -----
+F_RgQpgSrTp8YuqmW_pJa9R2jRMD0D2s3oPe6GHcCDJcenMtPqGp1RZMNqxb49jfhbctL2RXPeWvN4-62nqmCQ
+----- END CREV PROOF -----
+
