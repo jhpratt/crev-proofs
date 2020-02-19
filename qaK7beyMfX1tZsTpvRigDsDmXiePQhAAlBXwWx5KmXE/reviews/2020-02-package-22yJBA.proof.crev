@@ -1,0 +1,30 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-02-19T01:46:58.586696211-05:00"
+from:
+  id-type: crev
+  id: qaK7beyMfX1tZsTpvRigDsDmXiePQhAAlBXwWx5KmXE
+  url: "https://github.com/jhpratt/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rustversion
+  version: 1.0.1
+  revision: 0c5663313516263059ce9059ef81fc7a1cf655ca
+  digest: VAwitBO6PCI4zktY6bPm_6lPQZqlAiFrNVw3faF1cg8
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+comment: |-
+  This crate makes minimal assumptions about data; the only ones made are ones
+  that will hold true for a significant amount of time. One assumption will not
+  be invalid until the year 2100, while another is that there will not be a
+  Rust 2. The code will likely be updated (or integrated into std) long before
+  either of these become an issue.
+  
+  Aside from these minimal, relatively safe assumptions, the code looks great.
+----- SIGN CREV PROOF -----
+eI0B5C3p4k72K6ZJSV0vaeXgSLugT_D-W75kdOzi_58iPWBzjMSg7Zab6Phsns8T_JSatiXwZU50ThN69nVUDA
+----- END CREV PROOF -----
+
