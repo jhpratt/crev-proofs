@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-09-26T01:50:01.587493754-04:00"
+from:
+  id-type: crev
+  id: qaK7beyMfX1tZsTpvRigDsDmXiePQhAAlBXwWx5KmXE
+  url: "https://github.com/jhpratt/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: chrono
+  version: 0.4.17
+  revision: a9dd78418f18bc7a7f22da0c52ada0919cbbca3d
+  digest: XtUaUmBzX_Qks40bLGPHp6c-2AThu6i0fEwuLTftArc
+alternatives:
+  - source: "https://crates.io/crates/time"
+    name: time
+comment: |-
+  0.4.16 introduced two breaking changes
+----- SIGN CREV PROOF -----
+cCQr1sAiHSjwFEAOFu3qApushTx6OeGFQ60unypz0-dV8ATA_adRX6EICcujm7Tivz3YVBUnfUWD312LQjoiAw
+----- END CREV PROOF -----
+
